@@ -1,4 +1,6 @@
-import token from './public.pem';
+//import token from './public.pem';
+// @ts-ignore
+import publicKey from './public.pem';
 
 export const window = {
     width: 900,
