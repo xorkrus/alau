@@ -1,5 +1,4 @@
-// public.pem.d.ts
-declare module '*.pem' {
-  const content: string;
-  export default content;
+declare module '/public.pem' {
+  const value: string;
+  export default value;
 }
