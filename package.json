@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AuroraTeam/Launcher.git"
+        "url": "git+https://github.com/xorkrus/alau.git"
     },
     "author": "AuroraTeam",
     "contributors": [
@@ -32,9 +32,9 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/AuroraTeam/Launcher/issues"
+        "url": "https://github.com/xorkrus/alau/issues"
     },
-    "homepage": "https://github.com/AuroraTeam/Launcher#readme",
+    "homepage": "https://github.com/xorkrus/alau#readme",
     "devDependencies": {
         "@aurora-launcher/esbuild-decorators": "^0.0.1",
         "@types/node": "^18.17.15",
